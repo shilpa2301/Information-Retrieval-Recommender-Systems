@@ -1,8 +1,7 @@
 # Information-Retrieval
 Information Storage and Retrieval
 
-These documents are created as a part of CSCE 670 coursework at TAMU.
-Documents are uploaded after deadlines are over.
+
 
 1. Basic Python File: Basic python understanding and http content parsing
 2. Lyrical Search Engine:
