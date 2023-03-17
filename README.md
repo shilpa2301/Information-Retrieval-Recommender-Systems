@@ -18,7 +18,7 @@ Information Storage and Retrieval
   b. User-User Collaborative Filtering using N-nearest neighbor/N most similar users (N=10) for Implicit Recommendation
   c. Matrix Factorization using Gradient descent for implicit recommendation
   d. Bayesian Personalized Ranking(BPR) for Implicit Recommendation
-  e. A cool extension on my own- Analysis of the varying the value of Latent Factor K for BPR, finding the optimal K for given dataset and analysing the reason behind it using the below trend I got from my experiments.
+  e. A cool extension on my own- Analysis of the varying the value of Latent Factor K on the efficiency of BPR, finding the optimal K for given dataset and analysing the reason behind it using the below trend I got from my experiments.
   
   ![image](https://user-images.githubusercontent.com/117051201/225868898-40095930-5ea1-4315-bfea-241b47592129.png)
   
