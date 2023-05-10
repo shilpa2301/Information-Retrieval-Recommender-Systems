@@ -23,5 +23,12 @@ Information Storage and Retrieval
   ![image](https://user-images.githubusercontent.com/117051201/225868898-40095930-5ea1-4315-bfea-241b47592129.png)
   
   ![image](https://user-images.githubusercontent.com/117051201/225869077-b697a988-7e4f-4d41-9b45-d6e7b1a1ea75.png)
+  
+  
+4. Neural IR, Search Engine Optimization Contest(SEO) and ChatGPT Attacks(Mar 23 Version): 
+  a. Search Engine Optimizarion contest where I included a given phrase in a webpage and discussed the SEO techniques used to bring it to top 50.
+  b. IR Attacks discussion and ChatGPT attacks- adversarial and bias attacks carried out
+  c.DESM(Dual Embedding Space Model) Implementation
+  
 
 
